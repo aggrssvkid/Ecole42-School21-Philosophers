@@ -18,9 +18,3 @@ philosopher must eat with two forks, one for each hand.
 + Each time a philosopher has finished eating, he will drop his forks and start sleeping.
 + When a philosopher is done sleeping, he will start thinking.
 + The simulation stops when a philosopher dies.
-
-# Опыт и впечатления от полученного проекта
-
-Несложный, но очень полезный проект.Начинаешь понимать, как устроена вселенная компьютеров.
-Инструмент параллельного программирования экономит очень много времени при работе программы, так что, понимая важность этой штуки, пришлось много поковыряться в коде,
-дабы в голове появилось примерное понимание, в каких ситуациях и как можно применять подобные штуки.
